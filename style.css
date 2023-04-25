@@ -5,6 +5,7 @@ body {
     margin: 0;
     color: white;
 }
+
 h1 {
     text-align: center;
 }
@@ -28,6 +29,11 @@ td {
     text-align: center;
     font-size: 36px;
     font-weight: bold;
+    cursor: pointer;
+}
+
+td:hover {
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 table td {
