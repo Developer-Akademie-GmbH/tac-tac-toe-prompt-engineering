@@ -15,6 +15,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 /* Set white border-color and thicker table borders */
